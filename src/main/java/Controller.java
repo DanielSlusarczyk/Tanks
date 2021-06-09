@@ -97,7 +97,7 @@ public final class Controller {
                     gameBoard.actualizeTime(currentTime);
                     actualizationTimeRequired = false;
                 }
-                if (gameTime == 0) {
+                if (gameTime <= 0) {
                     showEndPane(false);
                 }
                 //TIMER

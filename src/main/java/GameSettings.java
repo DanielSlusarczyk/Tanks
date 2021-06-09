@@ -122,6 +122,9 @@ public final class GameSettings {
     }
 
     public static boolean setGameSettings(String x, String y) throws NumberFormatException {
+        if(Double.parseDouble(y) < 0){
+            throw new NumberFormatException();
+        }
         switch (x) {
             case "V1" -> BulletVelocity = Double.parseDouble(y);
             case "X1" -> BulletNumberLimit = Integer.parseInt(y);
