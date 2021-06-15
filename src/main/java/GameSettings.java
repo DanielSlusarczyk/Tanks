@@ -33,7 +33,7 @@ public final class GameSettings {
     public static double BulletVelocity = 8;
     public static Color LeftPlayerBulletColor = rgb(204, 0, 0, 0.7);
     public static Color RightPlayerBulletColor = rgb(0, 102, 255, 0.7);
-    public static final double BulletFrequencyLimit = 0.1;
+    public static final double BulletFrequencyLimit = 0.01;
     public static int BulletNumberLimit = 10;
     public static double BulletVelocityIncrease = 1;
     public static double BulletRadiusDecrease = 1;
