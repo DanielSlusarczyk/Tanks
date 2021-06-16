@@ -33,7 +33,7 @@ public final class GameSettings {
     public static double BulletVelocity = 8;
     public static Color LeftPlayerBulletColor = rgb(204, 0, 0, 0.7);
     public static Color RightPlayerBulletColor = rgb(0, 102, 255, 0.7);
-    public static final double BulletFrequencyLimit = 0.01;
+    public static final double BulletFrequencyLimit = 0.1;
     public static int BulletNumberLimit = 10;
     public static double BulletVelocityIncrease = 1;
     public static double BulletRadiusDecrease = 1;
@@ -64,8 +64,8 @@ public final class GameSettings {
     public static final String ImageExtension = "PNG";
     public static double TimeBetweenCellGenerating = 1;
     public static double TimeBetweenColonyGeneration = 3;
-    public static double VolumeOfMusic = 0.15;
-    public static double VolumeOfMusicEffects = 0.25;
+    public static double VolumeOfMusic = 0.05;
+    public static double VolumeOfMusicEffects = 0.15;
     public static String BackgroundSound = "sound/background.mp3";
     public static String EndSound = "sound/end.wav";
     public static String GetScoreSound = "sound/getScore.wav";
