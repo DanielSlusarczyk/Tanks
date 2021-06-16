@@ -122,7 +122,7 @@ public final class GameSettings {
     }
 
     public static boolean setGameSettings(String x, String y) throws NumberFormatException {
-        if(Double.parseDouble(y) < 0){
+        if (Double.parseDouble(y) < 0) {
             throw new NumberFormatException();
         }
         switch (x) {
