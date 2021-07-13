@@ -18,3 +18,8 @@ a ich najwazniejsza cecha jest wartość potrzebna do zastrzelenia znajdujaca si
 ## Wnioski
 Projekt _Tanks_ był pierwszą udaną próbą stworzenia aplikacji okienkowej w Javie. Pozwolił na poznanie problematyki działania pliku konfiguracyjnego i koncepcji programowania obiektowego. 
 
+## Wygląd
+### Rozgrywka
+![rozgrywka1](https://user-images.githubusercontent.com/74370363/125438035-615f21cb-048b-419c-ab55-e296f6591966.png)
+
+### Okno ustawień
