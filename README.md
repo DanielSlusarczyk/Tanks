@@ -21,6 +21,7 @@ Projekt _Tanks_ był pierwszą udaną próbą stworzenia aplikacji okienkowej w 
 ## Wygląd
 ### Rozgrywka
 ![rozgrywka1](https://user-images.githubusercontent.com/74370363/125438035-615f21cb-048b-419c-ab55-e296f6591966.png)
+![rozgrywka4](https://user-images.githubusercontent.com/74370363/125438574-3dcf01ea-a91d-43e5-b336-5e77afd08bd1.png)
 
 ### Okno ustawień
 ![zakladka1](https://user-images.githubusercontent.com/74370363/125438349-b97c302a-de82-4079-a3f5-6fcf8d94ebc7.png)
